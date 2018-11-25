@@ -11,5 +11,5 @@ Make gif file.
 1 Place image files in input folder.  
 2 Execute script file.  
 ```
-python make_gif.py
+python make_gif.py input -d 30
 ```
